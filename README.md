@@ -65,8 +65,6 @@ Technical University of Moldova)
       alt="Spring Boot" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
       alt="Git" width="45" height="45" style="margin-left: 12px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-      alt=".NET Razor" width="45" height="45" style="margin-left: 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
       alt="docker" width="45" height="45" style="margin-left: 12px;"/>
 </p>
