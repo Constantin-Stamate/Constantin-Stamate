@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&textColor=333333&height=100&section=header&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&textColor=2b2b2b&height=100&section=header&fontSize=40"/>
 </p>
 
 <div align="center">
   <span>
-    <h1>Hi, I'm Constantin 👋</h1>
+    <h2>Hi, I'm Constantin 👋</h2>
     <h3>I'm a Software Engineer Enthusiast</h3>
   </span>
 </div>
@@ -40,9 +40,9 @@ Technical University of Moldova)
 
 ### 💻 Technologies & tools
 
-<p align="left">
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-      alt="Java" width="45" height="45" style="margin-left: 15px;"/>
+      alt="Java" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
       alt="C#" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -55,8 +55,6 @@ Technical University of Moldova)
       alt="HTML5" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       alt="CSS3" width="45" height="45" style="margin-left: 12px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      alt="JavaScript" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
       alt="vscode" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
@@ -67,8 +65,6 @@ Technical University of Moldova)
       alt="pycharm" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png"
       alt="datagrip" width="45" height="45" style="margin-left: 12px;"/>
-    <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"
-      alt="WebStorm" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
       alt="Spring Boot" width="45" height="45" style="margin-left: 12px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
