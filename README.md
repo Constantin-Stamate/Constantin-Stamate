@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&textColor=333333&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&textColor=333333&height=100&section=header&fontSize=40"/>
 </p>
 
 <div align="center">
@@ -9,10 +9,18 @@
   </span>
 </div>
 
-<div align="center">
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Constantin-Stamate"/>
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Constantin-Stamate"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Constantin-Stamate" 
+           alt="Repos per Language" height="180" width="300"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Constantin-Stamate" 
+           alt="GitHub Stats" height="180" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ### 💡 About me
 
