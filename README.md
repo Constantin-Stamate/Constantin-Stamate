@@ -32,6 +32,7 @@
 
 - <a href="https://github.com/Constantin-Stamate/TheSquaresOdyssey">The Squares’ Odyssey</a> (Semester project – Implementation of Algorithms)
 - <a href="https://github.com/Constantin-Stamate/PregnancyHealthAssistant">Pregnancy Health Assistant</a> (Excalibur AI Camp)
+- <a href="https://github.com/Constantin-Stamate/TerraShop">Terra Shop</a> (Semester project – Web Technologies)
 
 ### 📑 Articles
 
