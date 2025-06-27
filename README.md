@@ -88,3 +88,13 @@ Technical University of Moldova)
     </td>
   </tr>
 </table>
+
+### 🏆 GitHub trophies
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Constantin-Stamate&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+    </td>
+  </tr>
+</table>
