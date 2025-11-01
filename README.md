@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://digitaledgetech.in/images/Banner_03.gif" alt="Animated Banner" width="100%" height="300"/>
+  <img src="assets/banner.gif" alt="Animated Banner" width="100%" height="300"/>
 </p>
 
 <div align="center">
