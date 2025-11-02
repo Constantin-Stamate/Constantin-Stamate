@@ -13,10 +13,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Constantin-Stamate&theme=default" alt="Productive Time" height="180"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Constantin-Stamate&theme=default&border_color=0A0209&border_radius=8" alt="Productive Time" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile" alt="GitHub Rank Percentile" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile&border_color=0A0209&border_radius=8" alt="GitHub Rank Percentile" height="180"/>
     </td>
   </tr>
 </table>
@@ -108,8 +108,7 @@ Technical University of Moldova)
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Constantin-Stamate&theme=juicyfresh&no-bg=true" 
-           alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Constantin-Stamate&theme=juicyfresh&no-bg=true" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
