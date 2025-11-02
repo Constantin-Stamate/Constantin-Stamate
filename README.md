@@ -13,9 +13,7 @@
 <table align="center">
   <tr>
     <td style="vertical-align: top;">
-      <div style="border: 1px solid #0A0209; border-radius: 8px; display: inline-block; line-height: 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Constantin-Stamate&theme=default" alt="Productive Time" height="180" style="display:block;"/>
-      </div>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Constantin-Stamate&theme=default" alt="Productive Time" height="180" style="display:block; border:1px solid #0A0209; border-radius:8px;"/>
     </td>
     <td style="vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile&border_color=0A0209&border_radius=8" alt="GitHub Rank Percentile" height="180" style="display:block;"/>
