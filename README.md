@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Animated Banner" width="100%" height="220"/>
+  <img src="assets/banner.gif" alt="Animated Banner" width="80%" height="180"/>
 </p>
 
 <div align="center">
   <span>
-    <h2>Hey there, I'm Constantin 👋</h2>
-    <h3>I'm a Java Software Engineer Learner</h3>
+    <h2>Hey, I'm Constantin 👋</h2>
+    <h3>I'm a Software Engineer Learner</h3>
     <p><em>“Turning ideas into code and code into impact”</em></p>
   </span>
 </div>
