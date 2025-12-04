@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Constantin-Stamate&theme=default&bg_color=fff&radius=8&days=10" alt="Activity Graph" height="180" style="display:block;"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Constantin-Stamate&theme=default&bg_color=FFFFFF&color=1E90FF&line=4682B4&point=104E8B&area=true&area_color=87CEFA&radius=8&days=15" alt="Activity Graph" height="180" style="display:block;"/>
     </td>
     <td style="vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile&border_color=0A0209&border_radius=8" alt="GitHub Rank Percentile" height="180" style="display:block;"/>
