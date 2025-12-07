@@ -13,10 +13,10 @@
 <table align="center">
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Constantin-Stamate&theme=default&bg_color=FFFFFF&color=1E90FF&line=4682B4&point=104E8B&area=true&area_color=87CEFA&radius=8&days=15" alt="Activity Graph" height="180" style="display:block;"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Constantin-Stamate&theme=default&bg_color=FFFFFF&color=1E3A8A&line=4682B4&point=104E8B&area=true&area_color=7EC0EE&radius=8&days=10" alt="Activity Graph" height="180" style="display:block;"/>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile&border_color=0A0209&border_radius=8" alt="GitHub Rank Percentile" height="180" style="display:block;"/>
+      <img src="https://github-readme-stats-ochre-rho.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile&border_color=1E40AF&border_radius=8&title_color=1E3A8A&text_color=000000&icon_color=1E3A8A" alt="GitHub Rank Percentile" height="180" style="display:block;"/>
     </td>
   </tr>
 </table>
@@ -95,10 +95,10 @@ Technical University of Moldova)
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Constantin-Stamate&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=fff&title_color=0A1931&text_color=0A0209&icon_color=0A1931&border_color=0A0209&border_radius=8" alt="Top Languages" height="180" width="300"/>
+      <img src="https://github-readme-stats-ochre-rho.vercel.app/api/top-langs?username=Constantin-Stamate&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=fff&title_color=1E3A8A&text_color=1E3A8A&icon_color=0A1931&border_color=1E40AF&border_radius=8&hide=Jupyter%20Notebook" alt="Top Languages" height="180" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Constantin-Stamate&theme=tokyonight&background=fff&ring=0A1931&fire=0A1931&currStreakLabel=0A0209&sideLabels=0A0209&dates=0A0209&stroke=0A0209&border=0A0209" alt="GitHub Streak" height="180" width="420"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Constantin-Stamate&theme=tokyonight&background=fff&ring=0A1931&fire=0A1931&currStreakLabel=0A0209&sideLabels=0A0209&dates=0A0209&stroke=1E40AF&border=1E40AF" alt="GitHub Streak" height="180" width="420"/>
     </td>
   </tr>
 </table>
