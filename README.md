@@ -98,7 +98,7 @@ Technical University of Moldova)
       <img src="https://github-readme-stats-ochre-rho.vercel.app/api/top-langs?username=Constantin-Stamate&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=fff&title_color=1E3A8A&text_color=1E3A8A&icon_color=0A1931&border_color=1E40AF&border_radius=8&hide=Jupyter%20Notebook" alt="Top Languages" height="180" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Constantin-Stamate&theme=tokyonight&background=fff&ring=0A1931&fire=0A1931&currStreakLabel=0A0209&sideLabels=0A0209&dates=0A0209&stroke=1E40AF&border=1E40AF" alt="GitHub Streak" height="180" width="420"/>
+      <img src="https://github-readme-streak-stats-ochre.vercel.app/?user=Constantin-Stamate&theme=tokyonight&background=fff&ring=0A1931&fire=0A1931&currStreakLabel=0A0209&sideLabels=0A0209&dates=0A0209&stroke=1E40AF&border=1E40AF" alt="GitHub Streak" height="180" width="420"/>
     </td>
   </tr>
 </table>
@@ -108,7 +108,7 @@ Technical University of Moldova)
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Constantin-Stamate&theme=juicyfresh&no-bg=true" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Constantin-Stamate&theme=juicyfresh&no-bg=true&column=-1" alt="GitHub Trophies"/>
     </td>
   </tr>
 </table>
