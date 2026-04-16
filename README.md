@@ -29,8 +29,8 @@
 
 ### 📂 Featured projects
 
-- <a href="https://github.com/Constantin-Stamate/TheSquaresOdyssey">The Squares’ Odyssey</a> (Semester project – Implementation of Algorithms)
-- <a href="https://github.com/Constantin-Stamate/PregnancyHealthAssistant">Pregnancy Health Assistant</a> (Excalibur AI Camp)
+- <a href="https://github.com/Constantin-Stamate/squares-odyssey-game-suite">The Squares’ Odyssey</a> (Semester project – Implementation of Algorithms)
+- <a href="https://github.com/Constantin-Stamate/fetal-monitoring-ai-system">Pregnancy Health Assistant</a> (Excalibur AI Camp)
 - <a href="https://github.com/Constantin-Stamate/eco-shop-management-system">Terra Shop</a> (Semester project – Web Technologies)
 
 ### 📝 Publications
