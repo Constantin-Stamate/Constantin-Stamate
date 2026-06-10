@@ -103,12 +103,25 @@ Technical University of Moldova)
   </tr>
 </table>
 
+### 🧠 Coding achievements
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/StamateConstantin?theme=light&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" height="160"/>
+    </td>
+    <td>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Constantin11" alt="Codeforces Stats" height="160"/>
+    </td>
+  </tr>
+</table>
+
 ### 📌 Milestones
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Constantin-Stamate&theme=juicyfresh&no-bg=true&column=-1" alt="GitHub Trophies"/>
+      <img src="https://github-profile-trophy-one.vercel.app/?username=Constantin-Stamate&theme=juicyfresh&no-bg=true&column=-1" alt="GitHub Trophies"/>
     </td>
   </tr>
 </table>
