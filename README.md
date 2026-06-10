@@ -108,10 +108,10 @@ Technical University of Moldova)
 <table align="center">
   <tr>
     <td>
-      <img src="https://leetcard.jacoblin.cool/StamateConstantin?theme=light&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" height="160"/>
+      <img src="https://leetcard.jacoblin.cool/StamateConstantin?theme=light&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" height="180"/>
     </td>
     <td>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Constantin11" alt="Codeforces Stats" height="160"/>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Constantin11" alt="Codeforces Stats" height="180"/>
     </td>
   </tr>
 </table>
