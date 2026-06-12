@@ -103,7 +103,7 @@ Technical University of Moldova)
   </tr>
 </table>
 
-### 🧠 Coding achievements
+### 🎯 Coding achievements
 
 <table align="center">
   <tr>
@@ -111,7 +111,7 @@ Technical University of Moldova)
       <img src="https://leetcard.jacoblin.cool/StamateConstantin?theme=light&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" height="180"/>
     </td>
     <td>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Constantin11" alt="Codeforces Stats" height="180"/>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Constantin11&bg_color=fff&border_color=1E40AF&title_color=1E3A8A&text_color=0A0209&icon_color=0A1931" alt="Codeforces Stats" height="180"/>
     </td>
   </tr>
 </table>
