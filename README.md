@@ -33,6 +33,7 @@
 - <a href="https://github.com/Constantin-Stamate/fetal-monitoring-ai-system">Pregnancy Health Assistant</a> (Excalibur AI Camp)
 - <a href="https://github.com/Constantin-Stamate/eco-shop-management-system">Terra Shop</a> (Semester project – Web Technologies)
 - <a href="https://github.com/Constantin-Stamate/smart-home-management-platform">Smart Home Management Platform</a> (Semester project – Design Patterns)
+- <a href="https://github.com/Constantin-Stamate/sales-data-warehouse-system">Sales Data Warehouse System</a> (UTM 2026 DB Contest)
 
 ### 📝 Publications
 
