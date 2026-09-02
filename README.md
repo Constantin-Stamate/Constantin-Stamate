@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Constantin-Stamate&theme=default&bg_color=FFFFFF&color=1E3A8A&line=4682B4&point=104E8B&area=true&area_color=7EC0EE&radius=8&days=10" alt="Activity Graph" height="180" style="display:block;"/>
+      <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Constantin-Stamate&theme=default&bg_color=FFFFFF&color=075985&title_color=075985&line=075985&point=075985&area=true&area_color=075985&radius=8&days=10" alt="Activity Graph" height="180" style="display:block;"/>
     </td>
     <td style="vertical-align: top;">
       <img src="https://github-readme-stats-ochre-rho.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile&border_color=1E40AF&border_radius=8&title_color=1E3A8A&text_color=000000&icon_color=1E3A8A" alt="GitHub Rank Percentile" height="180" style="display:block;"/>
@@ -101,19 +101,6 @@ Technical University of Moldova)
     </td>
     <td>
       <img src="https://github-readme-streak-stats-ochre.vercel.app/?user=Constantin-Stamate&theme=tokyonight&background=fff&ring=0A1931&fire=0A1931&currStreakLabel=0A0209&sideLabels=0A0209&dates=0A0209&stroke=1E40AF&border=1E40AF" alt="GitHub Streak" height="180" width="420"/>
-    </td>
-  </tr>
-</table>
-
-### 🎯 Coding achievements
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/StamateConstantin?theme=light&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" height="180"/>
-    </td>
-    <td>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Constantin11&bg_color=fff&border_color=1E40AF&title_color=1E3A8A&text_color=0A0209&icon_color=0A1931" alt="Codeforces Stats" height="180"/>
     </td>
   </tr>
 </table>
