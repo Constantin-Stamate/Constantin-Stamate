@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <h3>Hi there, I'm Constantin 👋</h3>
-  <h2><code>&lt;Aspiring Software Engineer/&gt;</code></h2>
+  <h4>Hi there, I'm Constantin 👋</h4>
+  <h3>𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛</h3>
 </div>
 
 <table align="center">
