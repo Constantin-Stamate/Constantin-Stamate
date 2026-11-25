@@ -3,29 +3,26 @@
 </p>
 
 <div align="center">
-  <span>
-    <h3>Hey, I'm Constantin 👋</h3>
-    <h3>I'm a Software Engineer Learner</h3>
-    <p><em>“Turning ideas into code and code into impact”</em></p>
-  </span>
+  <h3>Hi there, I'm Constantin 👋</h3>
+  <h2><code>&lt;Aspiring Software Engineer/&gt;</code></h2>
 </div>
 
 <table align="center">
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Constantin-Stamate&theme=default&bg_color=FFFFFF&color=075985&title_color=075985&line=075985&point=075985&area=true&area_color=075985&radius=8&days=10" alt="Activity Graph" height="180" style="display:block;"/>
+      <img src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=Constantin-Stamate&style=green&animate=true" alt="3D Activity Graph" height="180" style="display:block; border:1px solid #65751F; border-radius:8px;"/>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats-ochre-rho.vercel.app/api?username=Constantin-Stamate&show_icons=true&theme=default&rank_icon=percentile&border_color=1E40AF&border_radius=8&title_color=1E3A8A&text_color=000000&icon_color=1E3A8A" alt="GitHub Rank Percentile" height="180" style="display:block;"/>
+      <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Constantin-Stamate&theme=default&bg_color=FFFFFF&color=65751F&title_color=65751F&line=65751F&point=A3B83A&area=true&area_color=65751F&radius=8&days=30" alt="Activity Graph" height="180" style="display:block;"/>
     </td>
   </tr>
 </table>
 
-### ⚡ Inside me
+### ⚡ About me
 
-- Student in Software Engineering at the Technical University of Moldova.
+- Student in Information Technology at the Technical University of Moldova.
 - Developer creating applications using Java and C# (.NET).
-- Researcher exploring Artificial Intelligence and Machine Learning.
+- Passionate about software architecture and clean code.
 
 ### 📂 Featured projects
 
@@ -33,74 +30,30 @@
 - <a href="https://github.com/Constantin-Stamate/fetal-monitoring-ai-system">Pregnancy Health Assistant</a> (Excalibur AI Camp)
 - <a href="https://github.com/Constantin-Stamate/eco-shop-management-system">Terra Shop</a> (Semester project – Web Technologies)
 - <a href="https://github.com/Constantin-Stamate/smart-home-management-platform">Smart Home Management Platform</a> (Semester project – Design Patterns)
-- <a href="https://github.com/Constantin-Stamate/sales-data-warehouse-system">Sales Data Warehouse System</a> (UTM 2026 DB Contest)
 
 ### 📝 Publications
 
-- <a href="https://drive.google.com/file/d/1_412fyfyVytqgD0meDupaqBw8yB4iOPn/view?usp=drive_link">Le potentiel du calcul quantique dans la révolution scientifique</a> (Technical Scientific Conference of Undergraduate, Master, PhD students
-Technical University of Moldova)
+- [Le potentiel du calcul quantique dans la révolution scientifique](https://drive.google.com/file/d/1_412fyfyVytqgD0meDupaqBw8yB4iOPn/view?usp=drive_link) (Technical Scientific Conference of Undergraduate, Master's and PhD Students – Technical University of Moldova)
 
 ### ⚙️ Tech stack
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center">
   <tr>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" alt="DataGrip" width="50" height="50"/>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,cpp,python,spring,dotnet,postgresql,sqlserver,git,docker,linux,idea,pycharm,webstorm,visualstudio,vscode,datagrip&theme=light&perline=17" alt="Tech Stack"/>
     </td>
   </tr>
 </table>
 
-### 📈 Repository insights
+### 📈 Coding insights
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-ochre-rho.vercel.app/api/top-langs?username=Constantin-Stamate&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=fff&title_color=1E3A8A&text_color=1E3A8A&icon_color=0A1931&border_color=1E40AF&border_radius=8&hide=Jupyter%20Notebook" alt="Top Languages" height="180" width="300"/>
+      <img src="https://github-readme-stats-ochre-rho.vercel.app/api/top-langs?username=Constantin-Stamate&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=FFFFFF&title_color=65751F&text_color=65751F&icon_color=A3B83A&border_color=65751F&border_radius=8&hide=Jupyter%20Notebook" alt="Top Languages" height="180" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats-ochre.vercel.app/?user=Constantin-Stamate&theme=tokyonight&background=fff&ring=0A1931&fire=0A1931&currStreakLabel=0A0209&sideLabels=0A0209&dates=0A0209&stroke=1E40AF&border=1E40AF" alt="GitHub Streak" height="180" width="420"/>
+      <img src="https://github-readme-streak-stats-ochre.vercel.app/?user=Constantin-Stamate&theme=tokyonight&background=FFFFFF&ring=788B32&fire=B58B35&currStreakLabel=788B32&currStreakNum=B58B35&sideNums=84A34B&sideLabels=334155&dates=64748B&stroke=65751F&border=65751F&border_radius=8" alt="GitHub Streak" height="180" width="420"/>
     </td>
   </tr>
 </table>
