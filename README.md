@@ -51,10 +51,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-ochre-rho.vercel.app/api/top-langs?username=Constantin-Stamate&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=FFFFFF&title_color=65751F&text_color=65751F&icon_color=A3B83A&border_color=65751F&border_radius=8&hide=Jupyter%20Notebook" alt="Top Languages" height="180" width="300"/>
+      <img src="https://github-readme-stats-ochre-rho.vercel.app/api/top-langs?username=Constantin-Stamate&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=FFFFFF&title_color=B77948&text_color=655D50&icon_color=C5A059&border_color=65751F&border_radius=8&hide=Jupyter%20Notebook" alt="Top Languages" height="180" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats-ochre.vercel.app/?user=Constantin-Stamate&theme=tokyonight&background=FFFFFF&ring=788B32&fire=B58B35&currStreakLabel=788B32&currStreakNum=B58B35&sideNums=84A34B&sideLabels=334155&dates=64748B&stroke=65751F&border=65751F&border_radius=8" alt="GitHub Streak" height="180" width="420"/>
+      <img src="https://github-readme-streak-stats-ochre.vercel.app/?user=Constantin-Stamate&theme=tokyonight&background=FFFFFF&ring=C5A059&fire=B77948&currStreakLabel=655D50&currStreakNum=B77948&sideNums=655D50&sideLabels=655D50&dates=918B7D&stroke=D8D8D8&border=65751F&border_radius=8" alt="GitHub Streak" height="180" width="420"/>
     </td>
   </tr>
 </table>
